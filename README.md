@@ -18,30 +18,30 @@
 ## Screen shots Of the Running App
 
 ### HomePage
-    (The client side front-page)
+(The client side front-page)
 
-    ![home-page-image](images/screenshot-homepage-acct2.png)
-
-
-    ### File Upload
-        (The file upload transaction confirmation by metamask)
-
-        ![file-upload-confirmation] (images/screenshot-account2-fileupload-network-confirmation.png)
+ ![home-page-image](images/screenshot-homepage-acct2.png)
 
 
-    ### Successful Upload Transaction
+### File Upload
+(The file upload transaction confirmation by metamask)
 
-        ![file-uploaded](images/screenshot-fileuploaded-acct2.png)
-
-
-    ### Account Info and separation of document between two accounts
-
-        ![acct-separation-info](images/screenshot-accooun1-homepage.png)
+ ![file-upload-confirmation] (images/screenshot-account2-fileupload-network-confirmation.png)
 
 
-    ### Shareable hashed Link genereated by IPFS
+### Successful Upload Transaction
 
-        ![shaerable-link-content](images/hashed-ipfs-llnk.png)
+ ![file-uploaded](images/screenshot-fileuploaded-acct2.png)
+
+
+### Account Info and separation of document between two accounts
+
+ ![acct-separation-info](images/screenshot-accooun1-homepage.png)
+
+
+### Shareable hashed Link genereated by IPFS
+
+ ![shaerable-link-content](images/hashed-ipfs-llnk.png)
 
 
 ## Available Scripts
