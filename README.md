@@ -17,10 +17,10 @@
 
 ## Screen shots Of the Running App
 
-    ### HomePage
-        (The client side front-page)
+### HomePage
+    (The client side front-page)
 
-        ![home-page-image](images/screenshot-homepage-acct2.png)
+    ![home-page-image](images/screenshot-homepage-acct2.png)
 
 
     ### File Upload
