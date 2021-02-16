@@ -12,7 +12,7 @@
 
     -- The tests are written using Chai Framework
 
-    -- The Client Side app is written using React.JS
+    -- The Client Side app is written using React.JS & Web3.js
 
 
 ## Screen shots Of the Running App
